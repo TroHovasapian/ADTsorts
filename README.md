@@ -11,7 +11,7 @@ Execute program using terminal on linux:
 
 do "./generate"
 
-input the amount of lines you want it to sort from 10-100,000
+input the amount of lines you want it to sort from 10-1,000,000
 
 do "./mergesort" or "./insertionsort"
 
