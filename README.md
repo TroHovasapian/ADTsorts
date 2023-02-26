@@ -1,4 +1,12 @@
 # ADTsorts
+This program was the last project in my Abstract Data Types class. The goal was to create a program that generated a random unordered list and sorted it. 
+I decided to implement Merge Sort and Insertion Sort, and compare them. In the file in which all my code is, I have also inserted a pdf of the report I
+wrote about the program.
+
+Thank you!
+
+Instructions if you wanted to run the program:
+
 Merge Sort and Insertion sort program. Executed through Linux terminal. 
 
 To execute program using terminal on linux:
