@@ -7,9 +7,7 @@ Thank you!
 
 Instructions if you wanted to run the program:
 
-Merge Sort and Insertion sort program. Executed through Linux terminal. 
-
-To execute program using terminal on linux:
+Execute program using terminal on linux:
 
 do "./generate"
 
@@ -19,4 +17,4 @@ do "./mergesort" or "./insertionsort"
 
 if you want to see the time of each sorting algorithm:
 
-  include "time"
+include "time"
